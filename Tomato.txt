@@ -1,0 +1,24 @@
+
+
+Assets :
+Tomato
+
+Participants :
+the farmer, the wholesaler, the trucking company, and the retailer,the customer
+
+Transactions :
+Harvested
+Readied for market
+Picked up
+Packaged
+Transported
+Sold
+
+modifier:
+onlyActors
+
+
+1. AccessRestriction (Owner) -- to indicate who currently is in possession on Tomatoes
+2. Tomato -- indicate state, color, characterstics of tomato
+
+
